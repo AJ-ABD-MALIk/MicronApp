@@ -16,7 +16,7 @@ cd micronApp
 npm install
 ```
 
-Find and replace paths; "C:/Users/Lenovo/MicronApp" -> "Your/Path/to/MicronApp
+Find and replace paths; "C:/Users/Lenovo/MicronApp" -> "Your/Path/to/MicronApp"
 
 Edit database server address and name in the connection.js file
 

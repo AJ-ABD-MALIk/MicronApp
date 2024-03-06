@@ -3,7 +3,7 @@ Simple API with user authorisation and authentication functionality
 
 Stack: NodeJS | Express | Javascript | MongoDB
 
-## Common setup
+## Setup
 
 Clone the repo and install the dependencies.
 
